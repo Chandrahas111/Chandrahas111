@@ -3,7 +3,7 @@
 </h1>
 
 ## 👨‍💻 About Me
-- I have completed my Bachelor's at Aurora's technological and research institute in june 2024.
+- I have completed my Bachelor's at Aurora's technological and research institute in july 2024.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chandrahas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrahas-reddy-067a79257/)
 
 ## :hammer_and_wrench: Languages and Tools :
